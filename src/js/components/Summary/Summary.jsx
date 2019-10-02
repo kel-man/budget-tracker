@@ -8,7 +8,7 @@ export default class Summary extends React.Component {
                 <div className='card-body'>
                     <div className='container'>
                         <div className='row'>
-                            <div calssName='col-6 text-center'>
+                            <div className='col-6 text-center'>
                                 <h6 className='h6 strong'>Total Income</h6>
                                 <p>$4,000.00</p>
                             </div>

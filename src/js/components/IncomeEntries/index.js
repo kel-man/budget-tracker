@@ -9,4 +9,4 @@ function mapStoreToProps(store) {
     };
 }
 
-export default connect(mapStoreToProps)(ExpenseEntries);
+export default connect(mapStoreToProps)(IncomeEntries);
